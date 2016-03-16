@@ -1,11 +1,14 @@
-# common-git-alias
+Common Git Alias
+==
 
-* An attempt to create git commands for humans.
+**An attempt to standardise git commands**
+
+
+The Humane Standard
+--
+
+>
+> curl 'https://raw.githubusercontent.com/jigargosar/common-git-alias/master/setup-humane-git-alias.sh' | sh
+>
 
 * Inspired by: http://gggritso.com/human-git-aliases/
-
-* install them via following command:
-
->
-> curl https://raw.githubusercontent.com/jigargosar/common-git-alias/master/setup-git-alias.sh | sh
->
