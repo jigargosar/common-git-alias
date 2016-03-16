@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-git config --global --replace-all alias.branches branch -a
-git config --global --replace-all alias.tags tag
-git config --global --replace-all alias.stashes list
+git config --global --replace-all alias.branches 'branch -a'
+git config --global --replace-all alias.tags 'tag'
+git config --global --replace-all alias.stashes 'list'
 
 
 git config --global --replace-all alias.unstage 'reset -q HEAD --'
